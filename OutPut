@@ -1,0 +1,27 @@
+PS C:\CSS>  & 'C:\Program Files\Java\jdk1.8.0_181\bin\java.exe' '-cp' 'C:\Users\Shree\AppData\Roaming\Code\User\workspaceStorage\f2351c22dd93b1daf056286ba68fae31\redhat.java\jdt_ws\CSS_759c682b\bin' 'Highpeak'
+Enter the no.of Employees
+1
+Number of the Employees:1
+Here the goodie that are selected for distribution are:
+MI Band: 999
+
+
+And the differance between the chosen goodies with highest price and the lowest price is:0
+PS C:\CSS>  & 'C:\Program Files\Java\jdk1.8.0_181\bin\java.exe' '-cp' 'C:\Users\Shree\AppData\Roaming\Code\User\workspaceStorage\f2351c22dd93b1daf056286ba68fae31\redhat.java\jdt_ws\CSS_759c682b\bin' 'Highpeak'
+Enter the no.of Employees
+2
+Number of the Employees:2
+Here the goodie that are selected for distribution are:
+Microwave Oven: 9800
+ Alexa:9999
+
+
+And the differance between the chosen goodies with highest price and the lowest price is:199
+PS C:\CSS>  & 'C:\Program Files\Java\jdk1.8.0_181\bin\java.exe' '-cp' 'C:\Users\Shree\AppData\Roaming\Code\User\workspaceStorage\f2351c22dd93b1daf056286ba68fae31\redhat.java\jdt_ws\CSS_759c682b\bin' 'Highpeak'
+Enter the no.of Employees
+3
+Number of the Employees:3
+Here the goodie that are selected for distribution are:
+Microwave Oven: 9800
+ Alexa:9999
+Digital Camera:11101
